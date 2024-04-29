@@ -1,2 +1,4 @@
-*.v
-pickles/
+*.db
+*.log
+target/
+
